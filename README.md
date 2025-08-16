@@ -1,0 +1,1 @@
+Pruebas para probar conectividad Rasberry SHT30
